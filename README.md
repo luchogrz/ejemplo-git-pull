@@ -1,2 +1,2 @@
-# Repositorio para practicar Git Pull
+# Repositorio para practicar Git Pull (Lucho)
 Practica git pull
